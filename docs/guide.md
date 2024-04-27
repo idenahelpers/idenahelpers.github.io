@@ -34,5 +34,3 @@ Reporting session consists of judging the flips and reporting bad flips, given t
 To learn how to validate, open the training page of the web app, at [app.idena.io/try](https://app.idena.io/try), where you can find a detailed tutorial, and three levels of *training* (easy, medium, and hard), that differ not in content but in the waiting time, to train organising to be ready in time for validating.
 
 Successful training gives a *certificate* that can be shared with the [Idena community](https://docs.idena.io/docs/community/channels) to let them *invite* you for the next validation ceremony. Getting good scores is crucial, as a poor short/long score would not guarantee passing that validation, and a poor reporting would penalise people wrongly reported during real validations, or make bad flips pass as good.
-
-#### [Idena helpers](https://idenahelpers.github.io/)
