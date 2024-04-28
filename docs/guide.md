@@ -4,7 +4,7 @@
 
 Audience identity status: *Not validated*
 
-## Everything to know to become validator
+## How to become a validator
 
 Idena is a blockchain network based on *Proof of Personhood*.
 
